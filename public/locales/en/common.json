@@ -1,0 +1,117 @@
+{
+	"meta-tags": {
+		"title": "CAD - consulting and audit",
+		"description": "CAD - consulting and audit"
+	},
+	"header": {
+		"navigation-1": "Our Services",
+		"navigation-2": "The benefits of working with us",
+		"navigation-3": "Portfolio",
+		"navigation-4": "Customer Reviews",
+		"navigation-5": "Leave a request"
+	},
+	"hero": {
+		"sub-title": "From web development to cloud technologies.",
+		"h1": "Custom IT solutions for your business",
+
+		"text": "We combine innovation and technology to create unique products that meet your business needs.",
+
+		"button-text": "Let's Talk",
+
+		"text1": "From e-commerce to healthcare, customized solutions that drive success.",
+
+		"text2": "With a broad tech stack and teams in Ukraine and Israel, we bring innovation to every project.",
+
+		"text3": "Pioneering AI since 2012, we harness LLM models for advanced support and sales solutions."
+	},
+	"services": {
+		"h2": "Our Services",
+		"title-first": "Cloud Migration",
+		"text-first": "We move your infrastructure from on-prem to cloud solutions, providing flexibility and scalability.",
+		"title-second": "DevOps and automation",
+		"text-second": "We maximize development speed and efficiency using DevOps practices and process automation.",
+		"title-third": "IP telephony",
+		"text-third": "We will optimize your communication system for better interaction within the team and with clients.",
+		"title-fourth": "Web Development",
+		"text-fourth": "We create high-performance websites and web applications tailored to your needs.",
+		"title-fifth": "Artificial Intelligence",
+		"text-fifth": "We integrate AI-based solutions for analytics, automation and personalization.",
+		"title-sixth": "Custom Solutions",
+		"text-sixth": "We develop unique IT solutions in accordance with the needs of your business."
+	},
+
+	"advantages": {
+		"h2": "Advantages of working with us",
+		"sub-title": "We maximize the speed and efficiency of development using DevOps practices and process automation. We transfer your infrastructure from on-prem to cloud solutions, ensuring flexibility and scalability",
+
+		"item-title-first": "Innovation Leaders",
+		"item-text-first": "Constantly at the forefront of technology, we bring innovative solutions that keep your business ahead of the curve",
+
+		"item-title-second": "Global Collaboration",
+		"item-text-second": "With teams in Ukraine and Israel, we offer a diverse and collaborative approach to problem-solving, ensuring a global perspective on your projects",
+
+		"item-title-third": "Proven Track Record",
+		"item-text-third": "Overseeing more than 100 successful projects across various domains, our track record speaks to our commitment to delivering excellence",
+
+		"item-title-fourth": "Certified Expertise",
+		"item-text-fourth": "As certified cloud developers and AI engineers, our team possesses the necessary expertise to handle complex technological challenges",
+
+		"item-title-fifth": "Scalable Solutions",
+		"item-text-fifth": "Our solutions are not just effective today but are designed with scalability in mind, ensuring they grow seamlessly with your business",
+
+		"item-title-sixth": "Mobile Mastery",
+		"item-text-sixth": "Proficient in both Android and iOS development, we provide comprehensive mobile solutions that cater to a wide user base",
+
+		"item-title-seven": "AI Pioneers",
+		"item-text-seven": "Leading the way in AI development since 2012, we are pioneers in implementing advanced AI support bots and cutting-edge LLM models for superior user experiences"
+	},
+
+	"portfolio": {
+		"h2": "Our Clients",
+
+		"item-text-first": "Compas is comprised of buying execution and analytics specialists that manage and verify media buys from start to finish. With a highly tenured staff of professionals",
+		"item-text-second": "В сети спортивных клубов Харькова AURA Вас ждут лучшие направления фитнеса, тренажерный зал, три чистых бассейна, сквош-корт, сауна, массаж, SPA-комплекс",
+		"item-text-third": "The company was founded in 2010, and for a long time, its main focus was wholesale trade in clothing. In 2018, a retail online store was opened, and the trade name Dressa was registered. The name is derived from the English word dress, representing the main attribute of femininity throughout all times – a dress.",
+		"item-text-fourth": "Creating game-changing technologies and services that shape our future - that's what we do. By combining creativity, expertise and technology, we open new possibilities in communication for you. And together, we support in resolving global challenges.",
+		"item-text-fifth": "Fitness Depot, established in 2007, specializes in importing and selling high-quality nutritional supplements, sports accessories, and fitness equipment in Israel. With a commitment to customer results, the company prioritizes offering safe and effective products, partnering with leading manufacturers to provide exclusive deals at their store in Ashdod. Beyond product sales, Fitness Depot operates as a knowledge and guidance center, ensuring customers receive professional advice and support to achieve their fitness goals.",
+		"item-text-sixth": "The construction company Vorobyovi Hory was founded in 2009, and it was our company that started building residential complexes in Kharkiv with the popular format of smart apartments. Over time, we evolved, our buyers changed, and our range expanded to include full-format apartments ranging from 50 to 80 square meters. ",
+
+		"item-text-seven": "Jabil is a global manufacturing company with more than 250,000 employees across 100 locations in 30 countries. That list includes 300 of the biggest brands in the world in every market from healthcare, packaging, smartphones and cloud equipment to automotive and home appliances.",
+		"item-text-eight": "LOPAN GROUP is thousands of satisfied customers and tens of thousands of provided consultations and resolved technical issues.",
+		"item-text-nine": "When you're on the go, the free ParkMobile app makes it easy to find and pay for parking without running back to feed the meter. And for added convenience, you can reserve spots ahead of time.",
+		"item-text-ten": "Online project, was founded in 2012 in Kharkiv. The choice of the city was not accidental, as over many years a cluster of modern and affordable women's clothing production has actually formed in Kharkiv.",
+		"item-text-eleven": "The mission of the company Topolok is to promote effective work and learning by offering high-quality stationery and office supplies, guaranteeing high standards of product and work quality.",
+		"item-text-twelve": "We are here to make your gift special from the most precise idea, through packaging and delivery with all the care to the joyful cries of those you wanted to surprise. So if you were looking to give a slightly different gift, you are in the right place.",
+		"tag1": "Consalting",
+		"tag2": "AI",
+		"tag3": "Optimization"
+	},
+
+	"our-results": {
+		"h2": "Our results",
+		"item-text-first": "Of active marketplace users",
+		"item-text-second": "Revenue conversion rate",
+		"item-text-third": "Increase in sign-up conversion rate",
+		"item-text-fourth": "Increase in customer base",
+		"item-text-fifth": "Monthly E-commerce visits",
+		"item-text-sixth": "Monthly Sign-Up"
+	},
+
+	"our-feedbacks": {
+		"h2": "Feedbacks"
+	},
+	"contacts": {
+		"name": "Name",
+		"surname": "Surname",
+		"email": "Email",
+		"message": "Message",
+		"text": "Contact us if you want to collaborate with us or just chat.",
+		"send": "Send"
+	},
+	"footer": {
+		"nav": "Navigation",
+		"soc": "Social networks",
+		"reserved": "All rights reserved",
+		"policy": "Privacy Policy"
+	}
+}
