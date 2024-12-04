@@ -1,0 +1,15 @@
+---
+services:
+  gt-global:
+    build:
+      context: ./cad
+      dockerfile: Dockerfile
+    image: gt-global:v1
+    container_name: gt_global
+    ports:
+      - "8080:3000"
+    deploy:
+      resources:
+        limits:
+          memory: 2g
+
